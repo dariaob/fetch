@@ -1,0 +1,34 @@
+html {
+    font-family: 'Besley', serif;
+}
+h1 {
+    text-align: center;
+}
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
+thead {
+    font-family: 'Besley', bold, serif;
+}
+
+td {
+    letter-spacing: 1px;
+}
+
+td:first-child {
+    width: auto;
+}
+
+th, td {
+    padding: 10px;
+}
+
+tbody td {
+    text-align: left;
+}
+
+
