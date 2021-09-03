@@ -1,3 +1,3 @@
 # fetch
 
-Simple JS page. Uses Ajax requests for parsing JSON data and show it on HTML
+Simple JS page. Ajax requests parse JSON data that is shown in HTML page
